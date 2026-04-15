@@ -4,7 +4,7 @@
 <img width="748" height="468" alt="image" src="https://github.com/user-attachments/assets/65ccaa53-c857-4cd8-94b0-dc286434bb4d" />
 
 
-**1. Dominacja "Szybkiej Gratyfikacji" **
+1. Dominacja "Szybkiej Gratyfikacji"
 
 Z wykresu Shipping_Type oraz Discount_Used widać ciekawą zależność. Mimo że klienci 
 kochają zniżki, bardzo duża część z nich wybiera opcje dostawy Express i Next Day Air. 
@@ -47,6 +47,7 @@ cena tego nie naprawi w oczach klienta. Firma powinna skupić się na jakości
 obsługi, a nie tylko na agresywnej wyprzedaży. 
 
 Jak powstał raport?
+
 Narzędzia: Power BI Desktop. 
 Język DAX: Wykorzystany do tworzenia miar (np. średnia wartość zamówienia). 
 Power Query: Procesy czyszczenia i transformacji danych. 
