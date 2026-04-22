@@ -8,7 +8,7 @@
 
 Z wykresu Shipping_Type oraz Discount_Used widać ciekawą zależność. Mimo że klienci 
 kochają zniżki, bardzo duża część z nich wybiera opcje dostawy Express i Next Day Air. 
-• Wniosek: Klienci to osoby niecierpliwe. Strategia promocyjna powinna opierać 
+Z tego powodu możemy wnioskować,że klienci to osoby niecierpliwe. Strategia promocyjna powinna opierać 
 się nie tylko na obniżce ceny, ale na gwarancji dostawy "na jutro". To silniejszy 
 magnes niż darmowa wysyłka standardowa. 
 
@@ -17,7 +17,7 @@ magnes niż darmowa wysyłka standardowa.
 W sekcji Co kupują kobiety? oraz Kto robi więcej zakupów powyżej średniej? widać, że 
 choć kobiety dominują w kategoriach Clothing i Beauty, to mężczyźni (niebieski słupek) 
 częściej dokonują transakcji o jednostkowej wartości wyższej niż średnia. 
-• Wniosek: Kobiety generują ruch i wolumen (ilość zamówień), ale mężczyźni 
+Kobiety generują ruch i wolumen (ilość zamówień), ale mężczyźni 
 odpowiadają za "high-ticket items" (droższe pojedyncze zakupy, prawdopodobnie 
 elektronika). Reklamy skierowane do mężczyzn powinny podkreślać jakość i 
 markę, a do kobiet – różnorodność i trendy. 
@@ -25,7 +25,7 @@ markę, a do kobiet – różnorodność i trendy.
 3. Apple Pay jako lider nowoczesnych płatności
 
 Na wykresie Payment_Method najwyższe miejsce zajmuje Apple Pay. 
-• Wniosek: Baza klientów to w dużej mierze użytkownicy urządzeń mobilnych 
+Baza klientów to w dużej mierze użytkownicy urządzeń mobilnych 
 premium. Oznacza to, że każda nowa funkcja sklepu musi być projektowana w 
 standardzie Mobile First. Jeśli strona na telefonie będzie wolna, utracimy 
 najważniejszą grupę płatniczą. 
@@ -34,15 +34,14 @@ najważniejszą grupę płatniczą.
 
 Wykres liniowy Częstotliwość wykonywania zakupów pokazuje wyraźny spadek (dołek) 
 w środkowej części skali (prawdopodobnie okres poświąteczny lub zmiana sezonu). 
-• Wniosek: Istnieje martwy punkt w roku, w którym lojalność klientów spada. To 
+Istnieje martwy punkt w roku, w którym lojalność klientów spada. To 
 idealny moment na wprowadzenie programu lojalnościowego aby przywrócić ich 
 do sklepu przed kolejnym pikiem sprzedażowym. 
 
 5. Skuteczność zniżek
 Wykres kołowy dotyczący wpływu zniżek na ocenę pokazuje, że osoby kupujące ze 
 zniżką (Discount Used) wcale nie wystawiają znacznie lepszych ocen niż ci, którzy kupili 
-w cenie regularnej. 
-• Wniosek: Zniżka nie "kupuje" satysfakcji. Jeśli produkt jest słabej jakości, niska 
+w cenie regularnej. Zniżka nie "kupuje" satysfakcji. Jeśli produkt jest słabej jakości, niska 
 cena tego nie naprawi w oczach klienta. Firma powinna skupić się na jakości 
 obsługi, a nie tylko na agresywnej wyprzedaży. 
 
