@@ -49,7 +49,10 @@ obsługi, a nie tylko na agresywnej wyprzedaży.
 Jak powstał raport?
 
 Narzędzia: Power BI Desktop. 
+
 Język DAX: Wykorzystany do tworzenia miar (np. średnia wartość zamówienia). 
-Power Query: Procesy czyszczenia i transformacji danych. 
+
+Power Query: Procesy czyszczenia i transformacji danych.
+
 Modelowanie: Zastosowanie schematu gwiazdy (Star Schema) dla optymalizacji 
 wydajnośc
