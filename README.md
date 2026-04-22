@@ -39,6 +39,7 @@ idealny moment na wprowadzenie programu lojalnościowego aby przywrócić ich
 do sklepu przed kolejnym pikiem sprzedażowym. 
 
 5. Skuteczność zniżek
+
 Wykres kołowy dotyczący wpływu zniżek na ocenę pokazuje, że osoby kupujące ze 
 zniżką (Discount Used) wcale nie wystawiają znacznie lepszych ocen niż ci, którzy kupili 
 w cenie regularnej. Zniżka nie "kupuje" satysfakcji. Jeśli produkt jest słabej jakości, niska 
